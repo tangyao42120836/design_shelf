@@ -1,0 +1,169 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "5f5e7d9d-4fd2-46db-a531-ed3ffc533bca",
+      "url": "https://www.medtronic.com/en-us/index.html",
+      "title": " Health tech for the digital age",
+      "siteName": null,
+      "faviconUrl": "https://www.medtronic.com/content/dam/medtronic-wide/public/channel-configuration/favicons/favicon-32x32.png",
+      "previewImagePath": "./api/assets/5f5e7d9d-4fd2-46db-a531-ed3ffc533bca-1776329242787.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "gradient",
+        "bold",
+        "medicine"
+      ],
+      "note": null,
+      "createdAt": "2026-04-16T08:47:22.786Z",
+      "updatedAt": "2026-04-16T08:47:31.442Z"
+    },
+    {
+      "id": "f2e6ce74-f1dd-4bff-a4c5-af7446adfbec",
+      "url": "https://www.intuitive.com/en-us",
+      "title": "Intuitive | Maker of Da Vinci & Ion Robotic Systems",
+      "siteName": null,
+      "faviconUrl": "https://blue-images-isi.imgix.net/en-us/-/media/intuitive-com-images/intuitive-fav-icon-new.png?fit=crop&crop=entropy&w=32&h=32&auto=compress,format&s=09a538329d221d2e44fce0c91068a774",
+      "previewImagePath": "./api/assets/f2e6ce74-f1dd-4bff-a4c5-af7446adfbec-1776329196136.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "minimal",
+        "luxury",
+        "medicine"
+      ],
+      "note": "- 苹果风医疗网页",
+      "createdAt": "2026-04-16T08:42:15.064Z",
+      "updatedAt": "2026-04-16T08:46:45.061Z"
+    },
+    {
+      "id": "912db547-62b1-4c7b-8d39-d47f67ffd9ef",
+      "url": "https://claude.com/product/overview",
+      "title": "The AI for Problem Solvers | Claude by Anthropic",
+      "siteName": "Claude",
+      "faviconUrl": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/689f4a9aff1f63fde75cf733_favicon.png",
+      "previewImagePath": "./api/assets/912db547-62b1-4c7b-8d39-d47f67ffd9ef-1776331191521.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "editorial",
+        "minimal",
+        "luxury",
+        "micro-interaction"
+      ],
+      "note": "- 网站的手绘动效有特色\n- 配色和感觉比起一般科技感的编程，更有温度",
+      "createdAt": "2026-04-16T07:21:04.300Z",
+      "updatedAt": "2026-04-16T09:20:05.393Z"
+    },
+    {
+      "id": "66e0bc37-fb52-4849-b109-f3b4e49a1cf0",
+      "url": "https://www.lg.com/cn/dedicated-image-display/lg-32hs710s-w",
+      "title": "LG 32 英寸 4K IPS 手术显示器 | LG 中国",
+      "siteName": "LG中国官网",
+      "faviconUrl": "https://www.lg.com/lg5-common-gp/favicons/228x228.png",
+      "previewImagePath": "./api/assets/66e0bc37-fb52-4849-b109-f3b4e49a1cf0-1776323661903.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "minimal",
+        "grid",
+        "ecommerce"
+      ],
+      "note": null,
+      "createdAt": "2026-04-16T07:14:21.900Z",
+      "updatedAt": "2026-04-16T07:14:28.832Z"
+    },
+    {
+      "id": "45a53163-2efe-4f02-aae6-1d47f1dd50b1",
+      "url": "https://www.abbott.com/en-us/homepage",
+      "title": "Abbott | Life-Changing Healthcare Technologies",
+      "siteName": null,
+      "faviconUrl": "https://www.abbott.com/etc.clientlibs/abbott-core/clientlibs/favicons/clientlib-favicon-abbottcore/resources/icon-192x192.png",
+      "previewImagePath": "./api/assets/45a53163-2efe-4f02-aae6-1d47f1dd50b1-1776322048475.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "editorial",
+        "bold",
+        "cards",
+        "medicine"
+      ],
+      "note": "- 大胆有活力的配色",
+      "createdAt": "2026-04-16T06:29:33.571Z",
+      "updatedAt": "2026-04-16T07:17:37.960Z"
+    },
+    {
+      "id": "6983a423-53b0-4cc4-a5f8-a5b8d2a79460",
+      "url": "https://spell.sh/docs/light-rays",
+      "title": "Light Rays",
+      "siteName": null,
+      "faviconUrl": "https://spell.sh/icon.svg",
+      "previewImagePath": "./api/assets/6983a423-53b0-4cc4-a5f8-a5b8d2a79460-1776319659398.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "luxury",
+        "futuristic",
+        "micro-interaction",
+        "saas",
+        "gradient"
+      ],
+      "note": "完整的动效参考网站，包括文字动效、背景渐变等",
+      "createdAt": "2026-04-16T06:07:39.382Z",
+      "updatedAt": "2026-04-16T06:51:31.360Z"
+    },
+    {
+      "id": "0a5ee6ff-c975-4e78-85f2-9238b2365e56",
+      "url": "https://www.jnj.com/",
+      "title": "Johnson & Johnson: Changing health for humanity",
+      "siteName": "JNJ.com",
+      "faviconUrl": "https://www.jnj.com/favicon.ico",
+      "previewImagePath": "./api/assets/0a5ee6ff-c975-4e78-85f2-9238b2365e56-1776317938130.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "minimal",
+        "medicine"
+      ],
+      "note": "强生医疗",
+      "createdAt": "2026-04-16T05:38:58.110Z",
+      "updatedAt": "2026-04-16T05:39:00.923Z"
+    },
+    {
+      "id": "aecd9f63-be04-433d-bca7-026421ba02d1",
+      "url": "https://www.trae.ai/pricing",
+      "title": "Pricing | TRAE - Collaborate with Intelligence",
+      "siteName": null,
+      "faviconUrl": "https://lf16-web-neutral.traecdn.ai/obj/trae-ai-static/trae_website/favicon.png",
+      "previewImagePath": "./api/assets/aecd9f63-be04-433d-bca7-026421ba02d1-1776310305373.jpg",
+      "previewWidth": 1440,
+      "previewHeight": 900,
+      "status": "ready",
+      "errorMessage": null,
+      "tags": [
+        "noise",
+        "futuristic",
+        "cards",
+        "pricing"
+      ],
+      "note": "卡片纹理细节",
+      "createdAt": "2026-04-16T03:07:25.824Z",
+      "updatedAt": "2026-04-16T05:37:46.277Z"
+    }
+  ]
+}
